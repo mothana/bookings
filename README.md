@@ -1,2 +1,3 @@
 # bookings
-Values Predictions
+Values Predictions with python using liner regression and GradientBoostingRegressor
+
